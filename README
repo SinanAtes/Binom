@@ -1,0 +1,12 @@
+Binom dağılımı için gerekli hesapları yapar ve grafiğe döker.
+Örnek bir senaryo için veri girişi şu şekildedir. 5 tane para aynı anda havaya atılıyor. Bunlardan kaç tanesi tura gelir.
+
+Tek bir para için tura gelme olasılığı p= 1/2=0.5
+				  tura gelmemesi olasılığı q=1/2=0.5 dir.
+
+Bu paralardan n=0 tanesi yani hiç biri ura gelmemesi olasığı
+			  n=1 yani 5 paradan 1 tanesi tura gelme olasığı
+			  n=2 yani 5 paradan 2 tanesi
+			  ....
+			  ....
+			  n=5 yani bütün hepsinin tura gelme olasılığını verir. Programda bütün şekillenimler için n değeri 0-5 girilmelidir bu örnek için.
