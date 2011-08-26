@@ -1,5 +1,6 @@
 Binom dağılımı için gerekli hesapları yapar ve grafiğe döker.
 Örnek bir senaryo için veri girişi şu şekildedir. 5 tane para aynı anda havaya atılıyor. Bunlardan kaç tanesi tura gelir.
+N=5 bu örnek için
 
 Tek bir para için tura gelme olasılığı p= 1/2=0.5
 				  tura gelmemesi olasılığı q=1/2=0.5 dir.
